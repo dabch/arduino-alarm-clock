@@ -9,4 +9,5 @@ This is the code for an Arduino Nano alarm clock. It uses a 7 segment display to
 * alarm time is stored in EEPROM, so the last alarm will be restored after the Arduino is reset
 
 **Planned features:**
-* 60 single 3mm LEDs to display the seconds, connected using 8 shift registers (each second one LED will light up, after a minute is over they will go out and begin anew)
+* ~~60 single 3mm LEDs to display the seconds, connected using 8 shift registers (each second one LED will light up, after a minute is over they will go out and begin anew)~~
+* snooze function (to be implemented soon)
